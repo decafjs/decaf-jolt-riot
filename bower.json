@@ -1,0 +1,14 @@
+{
+  "name"           : "decaf-jolt-riot",
+  "version"        : "0.0.1",
+  "main"           : "index.js",
+  "ignore"         : [
+  ],
+  "dependencies"   : {
+    "decaf"     : "git://github.com/decafjs/decaf#master",
+    "decaf-jolt": "git://github.com/decafjs/decaf-jolt#master",
+    "riot"      : "2.x"
+  },
+  "devDependencies": {
+  }
+}
