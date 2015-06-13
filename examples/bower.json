@@ -16,11 +16,14 @@
   "license": "MIT",
   "homepage": "https://github.com/decafjs/decaf-examples",
   "private": "false",
+  "cwd": "../..",
   "dependencies": {
     "decaf": "decafjs/decaf#master",
     "decaf-jolt": "decafjs/decaf-jolt#master",
     "decaf-jolt-static": "decafjs/decaf-jolt-static#master",
     "decaf-jolt-riot": "decafjs/decaf-jolt-riot#master",
     "bootstrap": "3.x"
+  },
+  "unused": {
   }
 }
